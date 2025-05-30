@@ -1,6 +1,6 @@
 # Understanding Credit Insecurity: A Data-Driven Segmentation of American Households (Using the 2022 Survey of Consumer Finances)
 
-![Alt text](image_url)
+![Alt text](https://github.com/Obika-Franklin/CreditInsecurityAnalysis/blob/main/s%20(1).jpg)
 
 
 Every three years, the U.S. Federal Reserve conducts the **Survey of Consumer Finances (SCF)** to collect detailed information on the financial well-being of households across the country. In the 2022 edition, thousands of data points were gathered, ranging from income levels and debt obligations to demographic profiles and financial behavior. In this project, that data becomes the basis for a practical exploration. The task begins with identifying households that report difficulty accessing credit - a critical issue with implications for economic participation. From there, the goal shifts to organizing these households into distinct groups based on shared financial and demographic characteristics.
