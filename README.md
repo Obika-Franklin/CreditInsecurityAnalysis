@@ -9,6 +9,6 @@ To achieve this, the project applies an unsupervised machine learning technique 
 
 ---
 
-**Watch the [Demo Video]()!**
+**Watch the [Demo Video](https://youtu.be/KGRoMZItneQ?si=i4z-SNLQJJAqrPHq)!**
 
-**Access the [Colab Notebook]()**
+**Access the [Colab Notebook](https://colab.research.google.com/drive/1NkmT0KkrIL-if2Rw3-b-h-lh-rSO_uAv?usp=sharing)**
